@@ -23,7 +23,7 @@
     "react": "^18",
     "react-dom": "^18",
     "react-textarea-autosize": "^8.5.3",
-    "tailwind-merge": "^2.2.2",
+    "tailwind-merge": "^2.4.0",
     "yet-another-react-lightbox": "^3.17.2",
     "zod": "^3.22.4"
   },
